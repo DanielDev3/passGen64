@@ -1,3 +1,6 @@
+' Author: Daniel Godinez
+' Date: 12/15/2017
+
 import random
 
 print(" ###Welcome to the password generator###")
