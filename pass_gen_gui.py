@@ -1,8 +1,10 @@
 # Developer: Daniel Godinez
 # Version 1.0 | Created 11/29/2017
 # email: danieltech64@gmail.com
-from guizero import App, Combo, Text, TextBox, CheckBox, ButtonGroup, PushButton, info
-import random
+# Python Version 3.6.3
+
+#from guizero import App, Combo, Text, TextBox, CheckBox, ButtonGroup, PushButton, info
+#import random
 chars ='abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ.!@#$%&*'
 
 def getInteger():
