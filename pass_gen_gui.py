@@ -4,7 +4,7 @@
 # Python Version 3.6.3
 
 #from guizero import App, Combo, Text, TextBox, CheckBox, ButtonGroup, PushButton, info
-#import random
+import random
 chars ='abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ.!@#$%&*'
 
 def getInteger():
