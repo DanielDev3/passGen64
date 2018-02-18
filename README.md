@@ -7,4 +7,4 @@ The only code that works is the passgen.py currently
 Download a copy of this code and run it in your box that has python!
 Good luck
 
-contact : danieldba1867@gmail.com
+contact : daniel.godinez30@icloud.com
