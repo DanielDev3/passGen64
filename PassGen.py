@@ -6,9 +6,9 @@
 import random
 
 #Introduction to application
-print(" ###Welcome to the Free password generator###")
-print(" ###Provided by Daniel Godinez, danieldba1867@gmail.com###")
-print(" ###With passGen, you can generate as many passwords as you want!###")
+print(" Welcome to the Free password generator")
+print(" Provided by Daniel Godinez, daniel.godinez30@icloud.com")
+print(" With passGen64, generate as many passwords, however long you want them too!!")
 
 
 def passGen():
