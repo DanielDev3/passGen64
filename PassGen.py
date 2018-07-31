@@ -1,13 +1,13 @@
 # Author: Daniel Godinez
 # Date: 12/15/2017
-# PassGen Version 1.1
+# PassGen Version 1.2
 # Python Version: 3.6.3
 
 import random
 
 #Introduction to application
 print(" Welcome to the Free password generator")
-print(" Provided by Daniel Godinez, daniel.godinez30@icloud.com")
+print(" Provided by Daniel Godinez")
 print(" With passGen64, generate as many passwords, however long you want them too!!")
 
 
